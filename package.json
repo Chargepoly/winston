@@ -24,7 +24,7 @@
 		"stream"
 	],
 	"dependencies": {
-		"@dabh/diagnostics": "github:Chargepoly/diagnostics@master",
+		"@dabh/diagnostics": "github:Chargepoly/diagnostics#master",
 		"@colors/colors": "^1.6.0",
 		"async": "^3.2.3",
 		"is-stream": "^2.0.0",
